@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="water" size="680.000000 800.000000" />
+    <ImageTarget name="ear_PNG35699" size="0.060000 0.060000" />
+    <ImageTarget name="A" size="0.060000 0.074925" />
+    <ImageTarget name="heart" size="0.060000 0.092308" />
+  </Tracking>
+</QCARConfig>
